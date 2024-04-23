@@ -201,6 +201,22 @@ class ProjectCard extends HTMLElement {
         <span class="stack">mySQL</span>
       </div>
     </div>
+    <div class="project-card">
+        <img src="./public/joeen.png">
+      <div class="project-title">
+        <h3>JOEEN</h3>
+      </div>
+      <div class="project-overview">
+        <p>JOEEN (read: join) is a website that provides recommendations for events, communities, books, songs, and movies to help young people develop both themselves and their surroundings.</p>
+      </div>
+      <div class="project-stack">
+        <span class="stack">Javascript</span>
+        <span class="stack">Webpack</span>
+        <span class="stack">HTML</span>
+        <span class="stack">CSS</span>
+        <span class="stack">Node.js</span>
+      </div>
+    </div>
       </div>  
     </section>
         `;
