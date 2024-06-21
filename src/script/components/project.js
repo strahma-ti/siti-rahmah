@@ -142,29 +142,11 @@ class ProjectCard extends HTMLElement {
     this._shadowRoot.innerHTML += ` 
     <section class="project-section" id="project">
       <div class="main-title">
-        <h2 class="title">PROJECTS<img src="./public/sheaf.png"></h2>
+        <h2 class="title">PROJECTS<img src="./public/tukar-ratik.png"></h2>
         <p class="paragraph">Explore the projects I've worked on so far</p>
       </div>
       <div class="project-row" data-aos="fade-down">
-      <a href="https://playful-sopapillas-adb08a.netlify.app/" class="link-deploy" target="_blank">
-        <div class="project-card">
-          <img src="./public/trendz-resto.png">
-          <div class="project-title">
-            <h3>Trendz Resto</h3>
-          </div>
-          <div class="project-overview">
-            <p>Trendz-Resto" is a web platform sourcing restaurant data from an API. It offers restaurant recommendations, detailed information, and the ability to add favorites.</p>
-          </div>
-          <div class="project-stack">
-            <span class="stack">JavaScript</span>
-            <span class="stack">HTML</span>
-            <span class="stack">CSS</span>
-            <span class="stack">Webpack</span>
-            <span class="stack">Node.js</span>
-          </div>
-      </div>
-      </a>
-      <a href="https://www.saveourspecies.my.id/" class="link-deploy" target="_blank">
+            <a href="https://www.saveourspecies.my.id/" class="link-deploy" target="_blank">
           <div class="project-card">
             <img src="./public/sos.png">
             <div class="project-title">
@@ -186,21 +168,77 @@ class ProjectCard extends HTMLElement {
             </div>
         </div>
       </a>
+      <a href="https://tukar-ratik.vercel.app/" class="link-deploy" target="_blank">
+        <div class="project-card">
+          <img src="./public/trendz-resto.png">
+          <div class="project-title">
+            <h3>Tukar Ratik</h3>
+          </div>
+          <div class="project-overview">
+            <p>In my first project as a back end developer for the TukarAtik website, I was responsible for developing and managing the server-side of the application. TukarAtik is a platform where users can send their household waste to earn points, which can then be exchanged for vegetables or eggs.</p>
+          </div>
+          <div class="project-stack">
+            <span class="stack">JavaScript</span>
+            <span class="stack">ExpressJS</span>
+            <span class="stack">NodeJS</span>
+            <span class="stack">MySQL</span>
+            <span class="stack">BcryptJS</span>
+            <span class="stack">MomentJS</span>
+            <span class="stack">Railway</span>
+          </div>
+      </div>
+      </a>
+      <a href="https://playful-sopapillas-adb08a.netlify.app/" class="link-deploy" target="_blank">
+        <div class="project-card">
+          <img src="./public/trendz-resto.png">
+          <div class="project-title">
+            <h3>Trendz Resto</h3>
+          </div>
+          <div class="project-overview">
+            <p>Trendz-Resto" is a web platform sourcing restaurant data from an API. It offers restaurant recommendations, detailed information, and the ability to add favorites.</p>
+          </div>
+          <div class="project-stack">
+            <span class="stack">JavaScript</span>
+            <span class="stack">HTML</span>
+            <span class="stack">CSS</span>
+            <span class="stack">Webpack</span>
+            <span class="stack">Node.js</span>
+          </div>
+      </div>
+      </a>
+      <a href="https://lnkd.in/gGKG_s4C" class="link-deploy" target="_blank">
+      <div class="project-card">
+        <img src="./public/atur-pola.jpg">
+        <div class="project-title">
+          <h3>Atur Pola</h3>
+        </div>
+        <div class="project-overview">
+          <p>In the Atur Pola project, I served as the UI/UX Designer, focusing on creating a seamless and engaging user experience. Atur Pola is a website designed to help users manage and maintain a healthy lifestyle by providing tools and resources for planning meals, tracking exercise, and monitoring overall wellness.</p>
+        </div>
+        <div class="project-stack">
+          <span class="stack">Figma</span>
+          <span class="stack">Surveys</span>
+          <span class="stack">Interviews</span>
+          <span class="stack">Persona Creation</span>
+          <span class="stack">Trello</span>
+        </div>
+      </div>
+      </a>
       <div class="project-card">
         <img src="./public/flawsome.jpeg">
-      <div class="project-title">
-        <h3>Flawsome</h3>
+        <div class="project-title">
+          <h3>Flawsome</h3>
+        </div>
+        <div class="project-overview">
+          <p>FLAWSOME is a dynamic e-commerce platform showcasing premium skincare products from Indonesian brands. Built with PHP, HTML, CSS, and mySQL, FLAWSOME offers a seamless shopping experience.</p>
+        </div>
+        <div class="project-stack">
+          <span class="stack">PHP</span>
+          <span class="stack">HTML</span>
+          <span class="stack">CSS</span>
+          <span class="stack">mySQL</span>
+        </div>
       </div>
-      <div class="project-overview">
-        <p>FLAWSOME is a dynamic e-commerce platform showcasing premium skincare products from Indonesian brands. Built with PHP, HTML, CSS, and mySQL, FLAWSOME offers a seamless shopping experience.</p>
-      </div>
-      <div class="project-stack">
-        <span class="stack">PHP</span>
-        <span class="stack">HTML</span>
-        <span class="stack">CSS</span>
-        <span class="stack">mySQL</span>
-      </div>
-    </div>
     <div class="project-card">
         <img src="./public/joeen.png">
       <div class="project-title">
