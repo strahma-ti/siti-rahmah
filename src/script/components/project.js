@@ -213,7 +213,7 @@ class ProjectCard extends HTMLElement {
           <h3>Atur Pola</h3>
         </div>
         <div class="project-overview">
-          <p>In the Atur Pola project, I served as the UI/UX Designer, focusing on creating a seamless and engaging user experience. Atur Pola is a website designed to help users manage and maintain a healthy lifestyle by providing tools and resources for planning meals, tracking exercise, and monitoring overall wellness.</p>
+          <p>In the Atur Pola project, I served as the UI/UX Designer, focusing on creating a seamless and engaging user experience. Atur Pola is a website designed to help users manage and maintain a healthy lifestyle.</p>
         </div>
         <div class="project-stack">
           <span class="stack">Figma</span>
