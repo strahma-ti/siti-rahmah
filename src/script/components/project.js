@@ -142,7 +142,7 @@ class ProjectCard extends HTMLElement {
     this._shadowRoot.innerHTML += ` 
     <section class="project-section" id="project">
       <div class="main-title">
-        <h2 class="title">PROJECTS<img src="./public/tukar-ratik.png"></h2>
+        <h2 class="title">PROJECTS<img src="./public/sheaf.png"></h2>
         <p class="paragraph">Explore the projects I've worked on so far</p>
       </div>
       <div class="project-row" data-aos="fade-down">
