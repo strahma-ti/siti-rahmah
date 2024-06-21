@@ -170,12 +170,12 @@ class ProjectCard extends HTMLElement {
       </a>
       <a href="https://tukar-ratik.vercel.app/" class="link-deploy" target="_blank">
         <div class="project-card">
-          <img src="./public/trendz-resto.png">
+          <img src="./public/tukar-ratik.png">
           <div class="project-title">
             <h3>Tukar Ratik</h3>
           </div>
           <div class="project-overview">
-            <p>In my first project as a back end developer for the TukarAtik website, I was responsible for developing and managing the server-side of the application. TukarAtik is a platform where users can send their household waste to earn points, which can then be exchanged for vegetables or eggs.</p>
+            <p>Tukaratik was my first project as a back end developer, TukarAtik is a platform where users can send their household waste to earn points, which can then be exchanged for vegetables or eggs.</p>
           </div>
           <div class="project-stack">
             <span class="stack">JavaScript</span>
